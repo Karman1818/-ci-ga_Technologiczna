@@ -1,0 +1,165 @@
+body
+{
+	background-color: #18191a;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+.tabelka
+{
+	border: #3813c2 solid 1px;
+}
+
+td,th{
+	border: #3813c2 solid 1px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: white;
+	margin: 20px;
+}
+
+.jumpers
+{
+	text-align: center;
+}
+
+.jumpers img
+{
+	width: 105%;
+	height: auto;
+}
+
+.jumpers p
+{
+	margin-bottom: 30px;
+}
+
+.jumpers figcaption
+{
+	margin-top: 8px;
+}
+
+/*
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+*/
+
+.navbar
+{
+	min-height: 70px;
+}
+
+.bg-jumpers
+{
+	background-color: #3813c2 !important;
+}
+
+.wpis
+{
+
+text-align:justify;
+font-size:16px;
+padding:30px;
+margin-bottom:40px;
+
+
+
+}
+
+
+.list-group-item-dark
+{
+
+background-color:#3813c2;
+color:white;
+text-align:center;
+
+
+}
+
+
+.list-group-item-dark:hover
+{
+
+background-color:#3813c2 !important;
+
+
+
+}
+
+
+.list-group .active
+{
+
+background-color:#3813c2 !important;
+cursor:default;
+
+
+
+}
+
+
+.blockquote
+{
+
+line-height:120%;
+
+
+}
+
+
+
+@media (max-width: 575px)
+{
+
+.wpis
+{
+
+margin:40px 20px;
+text-align:left;
+font-size:15px;
+
+
+}
+
+.float-left, .float-rgiht
+
+{
+
+max-width:50%;
+
+}
+
+.blockquote
+{
+
+font-size:17px;
+
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
